@@ -1,6 +1,12 @@
 # shake_count_app
 
 A new Flutter project.
+<br/>
+flutter 활용 흔들기 카운트 앱 만들기
+<br/>
+velocity_x 라이브러리 사용
+<br/>
+native splash 적용
 
 ## Getting Started
 
